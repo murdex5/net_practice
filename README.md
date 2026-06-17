@@ -14,6 +14,10 @@ The goal of **Net_Practice** is to understand how networking works in IT by solv
 
 ---
 
+# How to run
+
+These are just json files so.......
+
 ## CIDR Cheat Sheet
 
 | CIDR | Subnet Mask     | Wildcard Mask   | # of IPs      | # of Usable IPs |
